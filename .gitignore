@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+html_coverage_report/
+.tox/
+.coverage
+.coverage.*
+.coveragerc
+setup.cfg
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# dotenv
+.env
+.env.tests
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# editor
+.vscode/
+
+# sqlite DB
+*.sqlite
+
+# pytests
+.pytest_cache/
+html_coverage_report/
+*.DS_store
